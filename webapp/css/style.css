@@ -1,0 +1,32 @@
+/* Enter your custom styles here */
+
+.sapMITH{
+	    margin: 10px;
+	    border-radius: 15px !important;
+}
+
+.sapMITBSelected .sapMITBFilterDefault{
+	background: #dfdfdf8a !important;
+    color: #b00 !important;
+    border: none !important;
+}
+
+.sapMITBFilterDefault {
+    color: #323232 !important;
+    border-color: #0854a0 !important;
+    border: none !important;
+}
+
+.sapMITBNoText .sapMITBVertical {
+    height: 50px !important;
+}
+
+.sapMITH.sapMITBNoText .sapMITBHead {
+    margin-top: 8px;
+}
+
+.sapMITH.sapMITBNoText .sapMITBHead {
+    margin-top: 8px;
+    display: flex;
+    justify-content: center;
+}
